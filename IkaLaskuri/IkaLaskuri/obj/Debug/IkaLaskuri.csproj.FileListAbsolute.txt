@@ -1,0 +1,7 @@
+C:\Users\arinp\source\repos\IkaLaskuri\IkaLaskuri\bin\Debug\IkaLaskuri.exe.config
+C:\Users\arinp\source\repos\IkaLaskuri\IkaLaskuri\bin\Debug\IkaLaskuri.exe
+C:\Users\arinp\source\repos\IkaLaskuri\IkaLaskuri\bin\Debug\IkaLaskuri.pdb
+C:\Users\arinp\source\repos\IkaLaskuri\IkaLaskuri\obj\Debug\IkaLaskuri.csproj.AssemblyReference.cache
+C:\Users\arinp\source\repos\IkaLaskuri\IkaLaskuri\obj\Debug\IkaLaskuri.csproj.CoreCompileInputs.cache
+C:\Users\arinp\source\repos\IkaLaskuri\IkaLaskuri\obj\Debug\IkaLaskuri.exe
+C:\Users\arinp\source\repos\IkaLaskuri\IkaLaskuri\obj\Debug\IkaLaskuri.pdb
